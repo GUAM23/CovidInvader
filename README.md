@@ -1,2 +1,2 @@
 # CovidInvader
-A simple Python game in Python
+A simple game in Python
